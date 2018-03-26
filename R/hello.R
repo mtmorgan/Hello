@@ -13,7 +13,15 @@
 hello <-
     function(who)
 {
+    ## argument checks
+    stopifnot(
+        is.character(who), length(who) == 1, !is.na(who)
+    )
+
+    ## implementation
     txt <- paste("hello", who)
     message(txt)
+
+    ## return
     txt
 }
