@@ -26,3 +26,15 @@ And...
 [3]: https://bioconductor.org/packages/SingleCellExperiment
 [4]: https://bioconductor.org/packages/scRNAseq
 [5]: http://bioconductor.org/packages/devel/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html
+
+
+Resources
+
+- Bioconductor [Developer resources][7], [coding style][6]
+- Bioconductor [software][8]
+- Bioconductor [GitHub][9]
+
+[6]: http://bioconductor.org/developers/how-to/coding-style/
+[7]: http://bioconductor.org/developers
+[8]: http://bioconductor.org/packages/devel
+[9]: https://github.com/Bioconductor
